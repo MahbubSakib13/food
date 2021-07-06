@@ -55,5 +55,43 @@ section{
     color: gray;
 }
 .project-cover{
-    display: flex;
+    width: 50%;
+    box-shadow: 10px 10px 10px 10px rgb(212, 207, 207);
+    border-radius: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 20px;
+    
+}
+.imag{
+    
+    border-radius: 4px;
+    margin-left: 5%;
+    margin-top: 5%;
+    width: 90%;
+}
+.bonus{
+    margin: auto;
+    width: 50%;
+    box-shadow: 5px 5px 5px 5px grey;
+    border-radius: 30px;
+    padding: 10px;
+    
+}
+.box-contant{
+    text-align: center;
+    margin: auto;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 5%;
+}
+.f-color{
+    color: grey;
+}
+.text-color{
+    color: white;
 }
