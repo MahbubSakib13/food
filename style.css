@@ -36,6 +36,7 @@ section{
 .second-div{
     padding-top: 115px;
     padding-bottom: 20px;
+ 
     
 }
 .second-para{
@@ -83,6 +84,9 @@ section{
 .box-contant{
     text-align: center;
     margin: auto;
+}
+.bonus{
+    margin-bottom: 5%;
 }
 footer{
     background-color: black;
