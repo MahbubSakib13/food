@@ -1,0 +1,59 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+span{
+    color: orange;
+}
+section{
+
+    display: flex;
+    margin-bottom: 150px;
+}
+.firstdiv{
+    padding-left: 5%;
+    width: 50%;
+}
+.first-para{
+    color: gray;
+    padding-bottom: 10px;
+}
+.firstdiv img{
+    width: 50%;
+    padding-right: 10%;
+   
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 700;
+}
+.second-div{
+    padding-top: 115px;
+    padding-bottom: 20px;
+    
+}
+.second-para{
+    padding-bottom: 20px;
+}
+.about-me{
+    background-image: url(shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-bottom: 150px;
+}
+.recipi{
+    text-align: center;
+    margin: 0% 40% 0% 40%;
+}
+.font-color{
+    color: gray;
+}
+.project-cover{
+    display: flex;
+}
